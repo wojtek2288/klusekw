@@ -3,6 +3,7 @@ using System.Collections.Generic;
 
 namespace StringCalculator
 {
+    //Comment
     public class Calculator
     {
         public int Calculate(string arguments)
